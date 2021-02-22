@@ -1,0 +1,1 @@
+export { default as apiInfoPessoais } from './InfoPessoais';
